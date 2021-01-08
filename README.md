@@ -2,7 +2,7 @@
 
 [Slides](https://docs.google.com/presentation/d/15g3vPp4h7A8hz67MxbOcEOOGerQULRT_i2T2JFdolsw/edit?usp=sharing)
 
-video
+[Video](https://youtu.be/sJHKx6-YvZM)
 
 ## Repos
 - [Multi-Tenant](https://github.com/cartyc/rancher-master-class/tree/master/multi-tenant)
